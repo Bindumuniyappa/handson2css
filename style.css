@@ -1,0 +1,26 @@
+.box{
+    border: 6px solid red;
+    width: 180px;
+  /*  height: 30px;*/
+    border-radius: 15px; 
+   display: inline-block ;
+    background: #000;
+    color: white;
+    
+}
+body {
+    border: 1px solid green;
+    width: 100%;
+}
+#top-section{
+margin: auto;
+}
+.center-box{
+    margin-left: 450px;
+}
+.right-box{
+    margin-left: 400px;
+}
+.right-box,.left-box{
+height: 70px;
+}
